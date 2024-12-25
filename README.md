@@ -1,4 +1,5 @@
-- GarhinZhou from JNU
+- GarhinZhou
+- From JNU
 - Totally fell in love with furry.
 
 <!---
