@@ -1,5 +1,5 @@
-GarhinZhou from JNU
-Totally fell in love with furry.
+- GarhinZhou from JNU
+- Totally fell in love with furry.
 
 <!---
 GarhinZhou/GarhinZhou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
