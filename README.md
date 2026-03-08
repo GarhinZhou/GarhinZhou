@@ -1,6 +1,4 @@
 - GarhinZhou
-- From JNU
-- Only furry.
 
 <!---
 GarhinZhou/GarhinZhou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
